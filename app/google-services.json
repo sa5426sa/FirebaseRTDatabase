@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "498597959896",
+    "project_id": "fir-rtdatabase-fb256",
+    "storage_bucket": "fir-rtdatabase-fb256.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498597959896:android:0279429c153ffaae55dfad",
+        "android_client_info": {
+          "package_name": "com.example.firebasertdatabase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeVX1e3D1l86xeK5iZRSA0onHXgr_mr1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

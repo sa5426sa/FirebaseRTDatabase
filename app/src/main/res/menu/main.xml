@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/enter"
+        android:title="Enter Data" />
+    <item
+        android:id="@+id/view"
+        android:title="View Data" />
+    <item
+        android:id="@+id/sort"
+        android:title="Sort Data" />
+    <item
+        android:id="@+id/credits"
+        android:title="Credits" />
+</menu>
